@@ -6,7 +6,26 @@ Atualmente, estou cursando o **Técnico em Desenvolvimento de Sistemas** e parti
 
 ---
 
-## 🏅 Certificações
+<details>
+  <summary>💻 <b>Habilidades</b> </summary>
+
+Minha experiência vem tanto da formação acadêmica quanto da atuação como aprendiz de desenvolvimento na empresa **Mobuss Construção**.  
+Aqui estão algumas das tecnologias que domino:
+
+🔹 **Back-end:** Java | Spring Boot | JPA | Hibernate  
+🔹 **Front-end:** HTML | CSS | JavaScript | JSF | PrimeFaces  
+🔹 **Banco de Dados:** PostgreSQL  
+🔹 **Relatórios & Analytics:** JasperReports | Google Analytics  
+🔹 **Ferramentas de Desenvolvimento:** Eclipse | VS Code  
+🔹 **Ferramentas & Outras Tecnologias:** Maven | Git | GitLab | GitHub  
+
+</details>
+
+---
+
+<details>
+  <summary>🏅 <b>Certificações</b> </summary>
+
 📜 **Java Completo** - Udemy  
 📜 **Ciência da Computação de Harvard no Brasil** - Fundação Estudar  
 📜 **Arduino e Dispositivos Robóticos** - IFC  
@@ -14,30 +33,23 @@ Atualmente, estou cursando o **Técnico em Desenvolvimento de Sistemas** e parti
 📜 **Java Fundamentals** - Oracle Academy  
 📜 **PostgreSQL** - Udemy  
 
----
-
-## 💻 Habilidades
-Minha experiência vem tanto da formação acadêmica quanto da atuação como aprendiz de desenvolvimento na empresa **Mobuss Construção**.  
-Aqui estão algumas das tecnologias que domino:
-
-🔹 **Back-end:** Java | Spring Boot | JPA | Hibernate  
-🔹 **Front-end:** HTML | CSS | JavaScript | JSF | PrimeFaces  
-🔹 **Banco de Dados:** PostgreSQL | SQL
-🔹 **Relatórios & Analytics:** JasperReports | Google Analytics  
-🔹 **Ferramentas & Outras Tecnologias:** Maven | Eclipse | VS Code  
+</details>
 
 ---
 
-## 🏆 Conquistas
+<details>
+  <summary>🏆 <b>Conquistas</b> </summary>
+
 🥇 **1º lugar** na Olimpíada Brasileira de Robótica (nível nacional)  
 💻 **9ª colocação** em um Hackathon  
 🎖️ **21ª colocação** na OBI (dentre 220 participantes)  
 🥉 **Medalha de bronze** na Olimpíada Brasileira de Geografia (OBG)  
 🌠 **1º lugar** por três anos consecutivos na Olimpíada Brasileira de Astronomia (OBA)  
 
+</details>
+
+---
 Se quiser saber mais sobre meus projetos e experiências, fique à vontade para explorar meu perfil! 🚀
-
-
 <div style="display: inline_block"><br>
 
   <img align="center" alt="Roberta-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -45,6 +57,8 @@ Se quiser saber mais sobre meus projetos e experiências, fique à vontade para 
   <img align="center" alt="Roberta-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Roberta-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Roberta-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="Roberta-PostgreSQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg">
+  <img align="center" alt="Roberta-SpringBoot" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
   
 </div>
   
