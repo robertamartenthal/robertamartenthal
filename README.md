@@ -1,57 +1,42 @@
-# Conheça Roberta Martenthal - Aprendiz de Desenvolvimento Web FullStack
+# 🚀 Conheça Roberta Martenthal - Aprendiz de Desenvolvimento Web FullStack
 
-Bem-vindo ao meu perfil! Me chamo Roberta, tenho 18 anos e atuo como aprendiz de Desenvolvimento Web FullStack na empresa Mobuss Construção. Atualmente, estou cursando o Técnico em Desenvolvimento de Sistemas e também participando do Entra 21, um programa de capacitação técnica voltado para a formação de desenvolvedores qualificados, com foco em Java e outras tecnologias essenciais para o mercado de trabalho.
+🎯 **Bem-vindo(a) ao meu perfil!**  
+Me chamo **Roberta Martenthal**, tenho 18 anos e atuo como **Aprendiz de Desenvolvimento Web FullStack** na empresa **Mobuss Construção**.  
+Atualmente, estou cursando o **Técnico em Desenvolvimento de Sistemas** e participando do **Entra 21**, um programa intensivo de capacitação técnica que prepara desenvolvedores para o mercado de TI, com foco em **Java, frameworks modernos e banco de dados**.
 
-## Habilidades
-Minha experiência vem tanto da formação acadêmica quanto da atuação como aprendiz de Desenvolvimento na empresa XXXX. Algumas das minhas principais habilidades incluem:
+---
 
-Java
+## 🏅 Certificações
+📜 **Java Completo** - Udemy  
+📜 **Ciência da Computação de Harvard no Brasil** - Fundação Estudar  
+📜 **Arduino e Dispositivos Robóticos** - IFC  
+📜 **Discover (HTML, CSS e JavaScript)** - Rocketseat  
+📜 **Java Fundamentals** - Oracle Academy  
+📜 **PostgreSQL** - Udemy  
 
-Banco de Dados PostgreSQL
+---
 
-JPA, Hibernate, Spring Boot
+## 💻 Habilidades
+Minha experiência vem tanto da formação acadêmica quanto da atuação como aprendiz de desenvolvimento na empresa **Mobuss Construção**.  
+Aqui estão algumas das tecnologias que domino:
 
-JSF, PrimeFaces
+🔹 **Back-end:** Java | Spring Boot | JPA | Hibernate  
+🔹 **Front-end:** HTML | CSS | JavaScript | JSF | PrimeFaces  
+🔹 **Banco de Dados:** PostgreSQL | SQL
+🔹 **Relatórios & Analytics:** JasperReports | Google Analytics  
+🔹 **Ferramentas & Outras Tecnologias:** Maven | Eclipse | VS Code  
 
-HTML, CSS, JavaScript
+---
 
-JasperReports
-
-Google Analytics
-
-Maven
-
-IDEs como Eclipse e VS Code
-
-Entre outras tecnologias.
-
-## Certificações
-
-Java Completo - Udemy
-
-Ciência da Computação de Harvard no Brasil - Fundação Estudar
-
-Arduino e Dispositivos Robóticos - IFC
-
-Discover (HTML, CSS e JavaScript) - Rocketseat
-
-Java Fundamentals - Oracle Academy
-
-PostgreSQL - Udemy
-
-## Conquistas
-
-🏆 1º lugar na Olimpíada Brasileira de Robótica (nível nacional)
-
-💻 9ª colocação em um Hackathon
-
-🏅 21ª colocação na OBI entre 220 participantes
-
-🥉 Medalha de bronze na Olimpíada Brasileira de Geografia (OBG)
-
-🌠 1º lugar por três anos consecutivos na Olimpíada Brasileira de Astronomia (OBA)
+## 🏆 Conquistas
+🥇 **1º lugar** na Olimpíada Brasileira de Robótica (nível nacional)  
+💻 **9ª colocação** em um Hackathon  
+🎖️ **21ª colocação** na OBI (dentre 220 participantes)  
+🥉 **Medalha de bronze** na Olimpíada Brasileira de Geografia (OBG)  
+🌠 **1º lugar** por três anos consecutivos na Olimpíada Brasileira de Astronomia (OBA)  
 
 Se quiser saber mais sobre meus projetos e experiências, fique à vontade para explorar meu perfil! 🚀
+
 
 <div style="display: inline_block"><br>
 
