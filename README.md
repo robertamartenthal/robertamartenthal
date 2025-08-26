@@ -1,4 +1,4 @@
-# 🚀 Conheça Roberta Martenthal - Aprendiz de Desenvolvimento Web FullStack
+# 🚀 Conheça Roberta Martenthal - Desenvolvedora de Sistemas
 
 🎯 **Bem-vindo(a) ao meu perfil!**  
 Me chamo **Roberta Martenthal**, tenho 18 anos e atuo como **Desenvolvedora de Sistemas** na empresa **Mobuss Construção**.  
