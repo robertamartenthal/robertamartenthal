@@ -1,15 +1,15 @@
 # 🚀 Conheça Roberta Martenthal - Aprendiz de Desenvolvimento Web FullStack
 
 🎯 **Bem-vindo(a) ao meu perfil!**  
-Me chamo **Roberta Martenthal**, tenho 18 anos e atuo como **Aprendiz de Desenvolvimento Web FullStack** na empresa **Mobuss Construção**.  
-Atualmente, estou cursando o **Técnico em Desenvolvimento de Sistemas** e participando do **Entra 21**, um programa intensivo de capacitação técnica que prepara desenvolvedores para o mercado de TI, com foco em **Java, frameworks modernos e banco de dados**.
+Me chamo **Roberta Martenthal**, tenho 18 anos e atuo como **Desenvolvedora de Sistemas** na empresa **Mobuss Construção**.  
+Atualmente, estou cursando o **Técnico em Desenvolvimento de Sistemas** e participando do **Entra21**, um programa intensivo de capacitação técnica que prepara desenvolvedores para o mercado de TI, com foco em **Java, frameworks modernos e banco de dados**.
 
 ---
 
 <details>
   <summary>💻 <b>Habilidades</b> </summary>
 
-Minha experiência vem tanto da formação acadêmica quanto da atuação como aprendiz de desenvolvimento na empresa **Mobuss Construção**.  
+Minha experiência vem tanto da formação acadêmica quanto da atuação como de desenvolvedora na empresa **Mobuss Construção**.  
 Aqui estão algumas das tecnologias que domino:
 
 🔹 **Back-end:** Java | Spring Boot | JPA | Hibernate  
